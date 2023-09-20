@@ -274,7 +274,7 @@ export const projectsSection: ProjectsSectionType = {
       name: 'Immutable',
       url: 'https://immutabletype.ekkel.app/',
       repo: 'https://github.com/Ekkel-AI-Private-Limited',
-      img: '/immutable2.png',
+      img: '/immutable.png',
       year: 2023,
       tags: [
         'React Js',
